@@ -141,6 +141,26 @@
   font-style: italic;
   src: url(../fonts/SF-Compact-Text-HeavyItalic.otf);
 }
+.ak-layout-item-widget-header {
+  top: 0;
+  height: 25px;
+  color: #a3a6ad;
+  border-bottom: 1px solid #191b1e;
+  background: #373b41;
+}
+
+.ak-layout-item-widget-header .header-info,
+.ak-layout-item-widget-header .header-title {
+  font-family: "SF Compact";
+  letter-spacing: -0.5px;
+  font-size: 10px;
+  line-height: 14px;
+  white-space: nowrap;
+  padding: 6px 6px 5px 8px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 body,
 button,
 input,
@@ -814,7 +834,7 @@ ak-area-button > button.is-left-icon > * {
 ak-area-button > button.is-left-icon > ak-icon,
 ak-area-button > button.is-left-icon > img {
   display: block;
-  width: calc(25%);
+  width: 25%;
   left: 10%;
 }
 
@@ -1999,26 +2019,6 @@ ak-layout-item-widget > * {
   position: absolute;
   left: 0;
   right: 0;
-}
-
-.ak-layout-item-widget-header {
-  top: 0;
-  height: 25px;
-  color: #a3a6ad;
-  border-bottom: 1px solid #191b1e;
-  background: #373b41;
-}
-
-.ak-layout-item-widget-header .header-info,
-.ak-layout-item-widget-header .header-title {
-  font-family: "SF Compact";
-  letter-spacing: -0.5px;
-  font-size: 10px;
-  line-height: 14px;
-  white-space: nowrap;
-  padding: 6px 6px 5px 8px;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
 .ak-layout-item-widget-header .header-info {
