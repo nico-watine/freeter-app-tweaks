@@ -1,6 +1,6 @@
 TODO:
 	☐	Duplicate imgs directory for easy swap of 10.15 & 11 image versions
-	☐	Replace timer svg with clock png in index.html
+	✔	Replace timer svg with clock png in index.html @done (22-10-22 10:34)
 	☐	Trim down font quantity
 	☐	Experiment with variable font file for SF
 	☐	Start using version numbers for tracking CSS edits
