@@ -1,5 +1,6 @@
 @import 'font-face/_font-face-sf-pro-text.scss';
 @import 'font-face/_font-face-sf-compact.scss';
+@import 'dark/_widgets.scss';
 
 body,
 button,
@@ -1863,25 +1864,27 @@ ak-layout-item-widget > * {
 	right: 0;
 }
 
-.ak-layout-item-widget-header {
-	top: 0;
-	height: 25px;
-	color: #a3a6ad;
-	border-bottom: 1px solid #191b1e;
-	background: #373b41;
-}
+// Widget Header Style
+// .ak-layout-item-widget-header {
+// 	top: 0;
+// 	height: 25px;
+// 	color: #a3a6ad;
+// 	border-bottom: 1px solid #191b1e;
+// 	background: #373b41;
+// }
 
-.ak-layout-item-widget-header .header-info,
-.ak-layout-item-widget-header .header-title {
-	font-family: 'SF Compact';
-	letter-spacing: -.5px;
-	font-size: 10px;
-	line-height: 14px;
-	white-space: nowrap;
-	padding: 6px 6px 5px 8px;
-	overflow: hidden;
-	text-overflow: ellipsis;
-}
+// Widget Header Title Text
+// .ak-layout-item-widget-header .header-info,
+// .ak-layout-item-widget-header .header-title {
+// 	font-family: 'SF Compact';
+// 	letter-spacing: -.5px;
+// 	font-size: 10px;
+// 	line-height: 14px;
+// 	white-space: nowrap;
+// 	padding: 6px 6px 5px 8px;
+// 	overflow: hidden;
+// 	text-overflow: ellipsis;
+// }
 
 .ak-layout-item-widget-header .header-info {
 	display: none;
