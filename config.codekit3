@@ -596,7 +596,7 @@
       "oA" : 0,
       "oAP" : "\/styles\/theme-dark.css",
       "oF" : 2,
-      "oS" : 0,
+      "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
@@ -611,7 +611,7 @@
       "oA" : 0,
       "oAP" : "\/styles\/theme-light.css",
       "oF" : 2,
-      "oS" : 0,
+      "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
