@@ -4,4 +4,5 @@ TODO:
 	☐	Trim down font quantity
 	☐	Experiment with variable font file for SF
 	☐	Start using version numbers for tracking CSS edits
+	☐	Start using scss $var for colors & font-face?
 
