@@ -476,11 +476,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/imgs\/link-opener-2.png" : {
+    "\/imgs\/link-opener.png" : {
       "ft" : 32768,
       "iS" : 169796,
       "oA" : 1,
-      "oAP" : "\/imgs\/link-opener-2.png",
+      "oAP" : "\/imgs\/link-opener.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
