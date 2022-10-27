@@ -9,6 +9,18 @@
   ],
   "creatorBuild" : "34418",
   "files" : {
+    "\/_ignores\/apple-nav.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/_ignores\/apple-nav-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/_ignores\/codekit-icon.png" : {
       "ft" : 32768,
       "iS" : 65538,
@@ -841,6 +853,21 @@
       "oAP" : "\/styles\/theme-light.css",
       "oF" : 2,
       "oS" : 3,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/styles\/scss\/var\/_var-dark.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_var-dark.css",
+      "oF" : 0,
+      "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
