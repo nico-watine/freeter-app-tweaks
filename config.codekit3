@@ -22,6 +22,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/_ignores\/font-weights-used.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/_ignores\/font-weights-used.txt",
+      "oF" : 0
+    },
     "\/_ignores\/freeter.sublime-project" : {
       "cB" : 0,
       "ft" : 8192,
