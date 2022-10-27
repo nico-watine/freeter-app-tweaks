@@ -1,0 +1,19 @@
+nav {
+	background-color: rgba(245,245,247,.72);
+	        backdrop-filter: saturate(180%) blur(20px);
+	-webkit-backdrop-filter: saturate(180%) blur(20px);
+}
+
+#ac-localnav.ac-ln-sticking .ac-ln-background {
+	background-color: rgba(255,255,255,.9);
+	transition: background-color .5s cubic-bezier(.28, .11, .32, 1);
+	transition-property: background-color, -webkit-backdrop-filter;
+	transition-property: background-color, backdrop-filter;
+	transition-property: background-color, backdrop-filter, -webkit-backdrop-filter;
+}
+
+/* From Apple Design Resources Sketch design doc: */
+.blur-bg {
+	background: rgba(246,246,246,.84);
+	backdrop-filter: saturate(200%) blur(30px);
+}
