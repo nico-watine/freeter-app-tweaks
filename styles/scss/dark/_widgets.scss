@@ -2,12 +2,10 @@
 .ak-layout-item-widget-header {
 	top: 0;
 	height: 25px;
-	color: #a3a6ad;
 	border-bottom: 1px solid #191b1e;
 	background: #373b41;
 
 	// Dev Styles:
-	// color: blue;
 	// background: red;
 }
 
@@ -23,4 +21,7 @@
 	padding: 6px 6px 5px 8px;
 	overflow: hidden;
 	text-overflow: ellipsis;
+	// color: #a3a6ad;
+
+	color: $color-widgetTitle;
 }

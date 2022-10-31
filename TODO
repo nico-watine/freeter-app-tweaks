@@ -1,9 +1,10 @@
 TODO:
-	☐	Duplicate imgs directory for easy swap of 10.15 & 11 image versions
+	✔	Duplicate imgs directory for easy swap of 10.15 & 11 image versions @done (22-10-28 14:08)
 	✔	Replace timer svg with clock png in index.html @done (22-10-22 10:34)
 	☐	Trim down font quantity
 	☐	Experiment with variable font file for SF
 	☐	Start using version numbers for tracking CSS edits
 	☐	Start using scss $var for colors & font-face?
 	☐	"Manage Project" cog icon change to System Preferences icon
+	☐	border-radius the widget square corners?
 
