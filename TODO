@@ -5,6 +5,6 @@ TODO:
 	☐	Experiment with variable font file for SF
 	☐	Start using version numbers for tracking CSS edits
 	☐	Start using scss $var for colors & font-face?
-	☐	"Manage Project" cog icon change to System Preferences icon
+	✔	"Manage Project" cog icon change to System Preferences icon @done (22-10-31 10:03)
 	☐	border-radius the widget square corners?
 
